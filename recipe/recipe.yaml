@@ -1,5 +1,5 @@
 context:
-  version: 0.1.5
+  version: "0.1.6"
 
 package:
   name: unocss-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/unocss-language-server/-/unocss-language-server-${{ version }}.tgz
-  sha256: 92b7b282d9101bb0e177430fb3611edabafad3efb20b11dc48d729105710f278
+  sha256: f1b97c556d1529d1c75e6c5fcc628ad2df1ba0a4d1042915e71e09aed18069ed
 
 build:
   noarch: generic
